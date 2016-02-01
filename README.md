@@ -234,6 +234,10 @@ setTimeout(function() {
 console.log('three');
 ```
 
+#### Theory Questions:
+* In what ways can your technical understanding inform your design decisions in a traditional visual designer role?
+* How adept do you feel with the technology?
+
 #### Fun Questions:
 
 * What's a cool project that you've recently worked on?
